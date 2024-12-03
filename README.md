@@ -17,7 +17,7 @@ Below are 5 queries, 3 visualizations, and a data model covering the many aspect
 
 ## Data Model
 
-Data model explination:
+Data model explanation:
 
 This data model is designed in a way to easily pull statistics from teams, players, and their respective games as well as keeping track of transactions.
 
