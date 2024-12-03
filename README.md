@@ -91,13 +91,15 @@ Placeholder explanation
 
 Placeholder explanation.
 
-4. Query 4 placeholder.
+4. Query 4
 
+![image](https://github.com/user-attachments/assets/e589ce43-9011-4542-964d-40180b6e7c54)
 
-
-Placeholder explanation.
+This query calculates the average points, rebounds, and assists per player for each team. It helps managers identify the top-performing teams based on player contributions.
 
 5. Query 5 placeholder.
+
+![image](https://github.com/user-attachments/assets/c63f0787-3e11-443b-9ae5-ee40f63bd09e)
 
 
 
