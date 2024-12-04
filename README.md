@@ -64,7 +64,7 @@ Lastly there is a many-to-many relationship between 'Coach' and 'Player' via wea
 
 
 
-1. Query 1 placeholder.
+1. Query 1
 
 ![image](https://github.com/user-attachments/assets/df3ee306-d605-4d78-aea8-e7c02d3262b5)
 
@@ -73,7 +73,7 @@ Lastly there is a many-to-many relationship between 'Coach' and 'Player' via wea
 
 This query retrieves a list of all players, their full names, and any awards they have received, including the award type and year. It ensures all players are included, even those without awards, by using a left join. NBA coaches or GMs can use it to track player achievements, analyze team rosters, and make informed decisions on player development or recruitment.
 
-2. Query 2 Placeholder.
+2. Query 2
 
 ![image](https://github.com/user-attachments/assets/45207ccf-9980-4b86-aafc-4c0fb0136db3)
 
@@ -82,7 +82,7 @@ This query retrieves a list of all players, their full names, and any awards the
 
 This query creates a view called PlayerSeasonInjuries, summarizing the total injuries each player had in a given season. It combines player data and injury records in the given year. NBA coaches and general managers can use this to track player durability, evaluate injuries, and make decisions for upcoming seasons.
 
-3. Query 3 Placeholder
+3. Query 3
 
 ![image](https://github.com/user-attachments/assets/b280ee80-3b62-4a82-bc86-5e7383b3b1a4)
 
@@ -97,10 +97,9 @@ It groups the results by player, displaying their names and total points. NBA co
 
 This query calculates the average points, rebounds, and assists per player for each team. It helps managers identify the top-performing teams based on player contributions.
 
-5. Query 5 placeholder.
+5. Query 5
 
 ![image](https://github.com/user-attachments/assets/c63f0787-3e11-443b-9ae5-ee40f63bd09e)
-
 
 
 It groups the results by team name and season year. NBA coaches and general managers can use this to analyze a team's offensive and defensive performance in a particular season which can help them identify weaknesses and strengths to work on next season.
