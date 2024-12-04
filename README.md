@@ -71,7 +71,7 @@ Lastly there is a many-to-many relationship between 'Coach' and 'Player' via wea
 
 ![image](https://github.com/user-attachments/assets/b2f3d318-96dc-4be4-8632-ec360d1dda94)
 
-Placeholder explanation
+This query retrieves a list of all players, their full names, and any awards they have received, including the award type and year. It ensures all players are included, even those without awards, by using a left join. NBA coaches or GMs can use it to track player achievements, analyze team rosters, and make informed decisions on player development or recruitment.
 
 2. Query 2 Placeholder.
 
@@ -80,7 +80,7 @@ Placeholder explanation
 ![image](https://github.com/user-attachments/assets/ac0c0ed9-2753-4d9a-8b4f-44183fa94a87)
 
 
-Placeholder explanation
+This query creates a view called PlayerSeasonInjuries, summarizing the total injuries each player had in a given season. It combines player data and injury records in the given year. NBA coaches and general managers can use this to track player durability, evaluate injuries, and make decisions for upcoming seasons.
 
 3. Query 3 Placeholder
 
@@ -89,7 +89,7 @@ Placeholder explanation
 ![image](https://github.com/user-attachments/assets/06a3b400-2c75-418e-9d03-5c4755797705)
 
 
-Placeholder explanation.
+It groups the results by player, displaying their names and total points. NBA coaches and general managers can use this to identify star players.
 
 4. Query 4
 
