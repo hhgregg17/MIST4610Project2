@@ -103,8 +103,7 @@ This query calculates the average points, rebounds, and assists per player for e
 
 
 
-Placeholder explanation.
-
+It groups the results by team name and season year. NBA coaches and general managers can use this to analyze a team's offensive and defensive performance in a particular season which can help them identify weaknesses and strengths to work on next season.
 ## Views:
 
 1.  Placeholder
