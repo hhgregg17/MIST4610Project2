@@ -105,23 +105,13 @@ This query calculates the average points, rebounds, and assists per player for e
 It groups the results by team name and season year. NBA coaches and general managers can use this to analyze a team's offensive and defensive performance in a particular season which can help them identify weaknesses and strengths to work on next season.
 ## Views:
 
-1.  Placeholder
+1.  Tableau Dashboard
+
+****![image](https://github.com/user-attachments/assets/4cc7f42c-6b08-411a-a83d-93c0b63f5fe7)
 
 
 
-Placeholder
-
-2. Placeholder
-
-
-
-Placeholder
-
-3. Placeholder
-
-
-
-Placeholder
+This is our tableau dashboard themed around team stats. This dashboard puts points scored vs allowed on the same view as fouls per team and turnovers (bad) per team.
 
 
 
